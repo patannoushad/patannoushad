@@ -8,7 +8,7 @@ Hello! Good day, I'm Noushad Pathan, a Test Automation Engineer with over 3+ yea
 **Frameworks & Tools:** TestNG, Cucumber (BDD), POM, Hybrid Framework; Maven, Jenkins for CI/CD; AWS for cloud environments     
 **Development & Version Control:** IntelliJ IDEA, VS Code; Git for source control      
 **Test Management & Operating Systems:** JIRA, Excel for test management; Windows, Linux environments     
-**Methodologies & Interests:** Agile (Scrum, Waterfall); Strong interest in Problem-Solving, Competitive Programming   
+**Methodologies & Interests:** Agile Scrum, Strong interest in Problem-Solving and Competitive Programming   
 
 ### Professional Experience
 **Automation Test Engineer at EIGITAL (Since March 2023)**
