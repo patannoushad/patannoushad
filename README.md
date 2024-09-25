@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm NOUSHAD PATHAN
 
 ## About Me
-Hello! Good day, I'm Noushad Pathan, a Test Automation Engineer with over 4+ years of experience in both Manual and Automation Testing, specializing in Selenium and Mobile Applications. I have a passion for developing efficient automation frameworks and leveraging my expertise in Agile methodologies to ensure high-quality software products. This GitHub profile is a snapshot of my journey, skills and contributions to the field of software testing.
+Hello! Good day, I'm Noushad Pathan, a Test Automation Engineer with over 3+ years of experience in both Manual and Automation Testing, specializing in Selenium and Mobile Applications. I have a passion for developing efficient automation frameworks and leveraging my expertise in Agile methodologies to ensure high-quality software products. This GitHub profile is a snapshot of my journey, skills and contributions to the field of software testing.
 
 ### Skills & Expertise
 **Programming & Scripting:** Core Java; Selenium, Appium, Postman for test automation    
